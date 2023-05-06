@@ -1,6 +1,7 @@
 # python cache files
 __pycache__/
-output/
+/output/
+/log/
 
 # virtual env
 env/
